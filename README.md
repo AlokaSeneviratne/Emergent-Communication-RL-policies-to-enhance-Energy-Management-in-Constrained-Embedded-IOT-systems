@@ -1,4 +1,4 @@
-# Emergent Communication based RL Policies for Energy-Constrained IoT Systems
+# Emergent Communication RL policies to enhance Energy Management in Constrained Embedded IOT systems
 
 Using emergent communication based reinforcement learning policies to improve energy management in resource-constrained embedded IoT systems. Distributed battery-powered nodes learn when to sense, transmit, and listen rather than following fixed schedules, extending operating life under partial observability and tight energy budgets.
 
